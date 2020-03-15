@@ -10,4 +10,4 @@ Projet réalisé dans le cadre du cours *Introduction aux signaux et systèmes* 
 ## Auteurs
 
 * **Maxime Meurisse** - [meurissemax](https://github.com/meurissemax)
-* **François Rozet** - [Donshel](https://github.com/Donshel)
+* **François Rozet** - [francois-rozet](https://github.com/francois-rozet)
